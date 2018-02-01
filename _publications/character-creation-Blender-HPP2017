@@ -1,0 +1,13 @@
+---
+title: "Character creation: From Blender to Humanoid Path Planner"
+collection: publications
+permalink: /publication/character-creation-Blender-HPP2017
+excerpt:
+date: 2017-07-10
+venue:
+paperurl:
+citation: ' M. Campana. (2017). &quot;Character creation: From Blender to Humanoid Path Planne.&quot.'
+---
+[PDF](https://github.com/mylene-campana/hpp-rbprm-corba/blob/convexCone/doc/character_creation/CharacterCreation.pdf)
+
+HOWTO make characters for HPP using Blender, and export HPP paths toward Blender.
